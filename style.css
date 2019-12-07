@@ -7,5 +7,15 @@ img.resize {
   display: incline-block;
 }
 
+.back {
+  position: relative;
+  top: 0;
+  left: 0;
+}
 
+.logo {
+  position: absolute;
+  top: 60px;
+  left: 80px;
+}
   

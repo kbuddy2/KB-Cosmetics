@@ -62,7 +62,7 @@ input[type=subcribe] {
   cursor: pointer;
 }
 
-section {
+ .allstar{
   float:left;
   margin:0 1.5%;
   width: 30%;

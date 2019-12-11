@@ -1,21 +1,11 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+input[type=submit]:hover {
+  background-color: #45a049;
 }
 
-li {
-  float: left;
-}
-
-li a {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+div.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
 }
 
 .active {
@@ -90,9 +80,4 @@ input[type=subcribe] {
   float:left;
   margin:0 1.5%;
   width: 30%;
-}
-
-footer {
-  background-color: grey;
-  font-color: black;
 }
